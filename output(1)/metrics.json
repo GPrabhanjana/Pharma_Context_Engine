@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-01-28T14:25:37.121681",
+  "total_images": 50,
+  "successful_extractions": 45,
+  "match_percentage": 90.0,
+  "correct_matches": 44,
+  "accuracy_percentage": 97.77777777777777,
+  "average_cer": 0.11007855966077894
+}
